@@ -1,5 +1,5 @@
 # Description
-*Motor search is a mini project that helps to know different types of motors and its specifications which may help user to know more about the motors.
+* Motor search is a mini project that helps to know different types of motors and its specifications which may help user to know more about the motors.
 
 ## Reasearch 
 There are 12 different types of Motors.
