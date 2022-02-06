@@ -1,8 +1,5 @@
 # Description
-* 
-
-
-
+*Motor search is a mini project that helps to know different types of motors and its specifications which may help user to know more about the motors.
 
 ## Reasearch 
 There are 12 different types of Motors.
@@ -32,11 +29,11 @@ Special Purpose Motors :
 # Requirememts
 
 ## High Level Requirements 
-
-* Features of my project 
+* C LANGUAGE 
 
 
 ## Low Level Requirements 
+* Search motors 
 
 # 4 W's and 1 H 
 
