@@ -6,7 +6,7 @@
 
 ## Reasearch 
 There are 12 different types of Motors.
-motors :
+
 DC Motors:
 1) DC Shunt Motor
 2) Separately Excited Motor
@@ -14,15 +14,16 @@ DC Motors:
 4) PMDC Motor
 5) DC Compound Motor
 
-AC Motors
+AC Motors :
 6) Synchronous Motor
 7) Induction Motor
 
-Special Purpose Motors
+Special Purpose Motors :
 8) Stepper Motor
 9) Brushless DC Motors
 10) Hysteresis Motor
 11) Reluctance Motor 
+
 # Benifits
 * Motor specifications are easily accessble.
 * Easy to use.
