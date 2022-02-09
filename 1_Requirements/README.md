@@ -1,5 +1,7 @@
 # Description
-* Motor search is a mini project that helps to know different types of motors and its specifications which may help user to know more about the motors.
+* Motor Search is a project that organises and maintains motor information based on the demands of user. Everyone gets benefit from the system, which allows them to keep track of all of the motors. It allows both the administrator and the student to look for the motor they want.
+
+* The Motor Search project is used to monitor and control information about motors. This project is written in C and focuses on fundamental activities such as addition of new motor,Adding the motor applications, specifying the speed of the motor, and price of the motor. Which helps user to get better understanding of motor.In this project we can maintain the records of motors.
 
 ## Reasearch 
 There are 12 different types of Motors.
