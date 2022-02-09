@@ -55,15 +55,3 @@ This search engine can be used by students in colleges for their projects.This m
 
 ## How:
 This is used to search for motors, as well as to display motor specifications as per user choice.
-
-# SWOT Analysis:
-## Strengths 
-* Easily Accessable.
-* Simple to use.
-* Highly Secure, Scalable & Reliable
-
-
-## Weakness
-* Temprorary stroge of data .
-* 
-
