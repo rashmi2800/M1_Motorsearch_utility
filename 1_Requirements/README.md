@@ -64,6 +64,6 @@ This is used to store the details of the motors, as well as to display motor inf
 |----|-----------------------------------------------------------|-------------|
 |LLR1|Add motor                                                  | Implemented |
 |LLR2|Search for motors                                          |Implemeted   |
-|LLR3|Search mototrs with the help of moototr name or application|Implemeted   |
-|LLR4| Keep a count of mototrs                                   |Implemented  |
+|LLR3|Search motors with the help of motor name or application   |Implemeted   |
+|LLR4| Keep a count of motors                                    |Implemented  |
 
