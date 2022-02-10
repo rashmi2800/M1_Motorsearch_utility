@@ -32,12 +32,20 @@ The "Motor Search" project provides us minimum information we need about the mot
 
 # Requirememts
 
-## High Level Requirements 
-* C LANGUAGE 
+## High Level Requirements
+
+|RID| Description|Status| 
+|HLR1|C LANGUAGE|Implemetned|
+
 
 
 ## Low Level Requirements 
-* Search motors 
+|RID| Description|Status| 
+|LLR1|Add motor | Implemented|
+|LLR2|Search for motors|Implemeted|
+|LLR3|Search mototrs with the help of moototr name or application|Implemeted|
+|LLR4| Keep a count of mototrs|Implemented|
+
 
 # 4 W's and 1 H 
 
@@ -45,13 +53,14 @@ The "Motor Search" project provides us minimum information we need about the mot
 Motor search can be used by both students and adults who are looking for different types of motors.
  
 ## What:
-Motor search is a search engine that lets people in finding the motor they need and understanding the specifications of various motors.
+Motor search is a search engine that lets people store as well as find the required motor they need.
 
 ## When:
-People looking for motors and their specifications will find motor search extremely handy, which can be easily accessed.
+People looking yo store the information of motors and their specifications will find motor search extremely handy, which can be easily accessed.
 
 ## Where:
-This search engine can be used by students in colleges for their projects.This may be simple for those who are mostly interested in motor specifications.
+This search engine can be used by students in colleges, and industry people which helps in storing of motor information.
 
 ## How:
-This is used to search for motors, as well as to display motor specifications as per user choice.
+This is used to store the details of the motors, as well as to display motor information,addition to that displaying the motor with the help of keyword and keeping a count of it.
+
