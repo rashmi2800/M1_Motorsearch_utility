@@ -22,29 +22,13 @@ The "Motor Search" project provides us minimum information we need about the mot
 * Secure, Scalable & Reliable
 * Innovative.
 
-
-
 ## Weakness
 * Temprorary stroge of data.
 * Can store 1-2 number of applications.
 * Cost increases as features added in the code increase.
 * lower growth in an innovative ideas.
 
-# Requirememts
 
-## High Level Requirements
-
-|RID| Description|Status| 
-|HLR1|C LANGUAGE|Implemetned|
-
-
-
-## Low Level Requirements 
-|RID| Description|Status| 
-|LLR1|Add motor | Implemented|
-|LLR2|Search for motors|Implemeted|
-|LLR3|Search mototrs with the help of moototr name or application|Implemeted|
-|LLR4| Keep a count of mototrs|Implemented|
 
 
 # 4 W's and 1 H 
@@ -63,4 +47,21 @@ This search engine can be used by students in colleges, and industry people whic
 
 ## How:
 This is used to store the details of the motors, as well as to display motor information,addition to that displaying the motor with the help of keyword and keeping a count of it.
+
+# Requirememts
+
+## High Level Requirements
+
+|RID| Description|Status| 
+|HLR1|C LANGUAGE|Implemetned|
+
+
+
+## Low Level Requirements 
+
+|RID| Description|Status| 
+|LLR1|Add motor | Implemented|
+|LLR2|Search for motors|Implemeted|
+|LLR3|Search mototrs with the help of moototr name or application|Implemeted|
+|LLR4| Keep a count of mototrs|Implemented|
 
