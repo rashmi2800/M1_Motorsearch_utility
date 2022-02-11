@@ -8,9 +8,11 @@
 			"args": [
 				"-fdiagnostics-color=always",
 				"-g",
-				"${file}",
+				"-I",
+				"${workspaceFolder}\\inc",
+				"${workspaceFolder}\\src\\*.c",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+				"${workspaceFolder}\\bin\\${fileBasenameNoExtension}.exe"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
@@ -18,7 +20,10 @@
 			"problemMatcher": [
 				"$gcc"
 			],
-			"group": "build",
+			"group": {
+				"kind": "build",
+				"isDefault" : true,
+			},
 			"detail": "compiler: C:\\TDM-GCC-64\\bin\\gcc.exe"
 		}
 	]

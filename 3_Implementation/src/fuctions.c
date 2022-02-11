@@ -1,9 +1,7 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
+#include<Header.h>
 
-void login();
-void mainmenu();
+char u[30],p[30];
+struct motor l[100];
 
 void mainmenu()
 {
@@ -134,4 +132,6 @@ void login()		//function that display login screen
 	{
 		printf("\n\n\t\tInvalid username and password");
 	}
+
+}
 
