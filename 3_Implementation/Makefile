@@ -4,9 +4,9 @@
 
 
 
-Build : main.c demo.c
+Build : maincode.c functions.c
 
-    gcc main.c demo.c -o maincode.out
+    gcc maincode.c functions.c -o maincode.out
 
 
 
