@@ -52,10 +52,12 @@ This is used to store the details of the motors, as well as to display motor inf
 
 ## High Level Requirements
 
-|RID | Description  |Status     | 
-|----|--------------|-----------|
-|HLR1|C LANGUAGE    |Implemetned|
-
+|RID | Description                     |Status     | 
+|----|-------------------------------- |-----------|
+|HLR1|C LANGUAGE                       |Implemetned|
+|HLR2|OS Windows                       |Implemented|
+|HLR3|OS Linux                         |Implemented|
+|HLR4|RAM 8GB                          |Implemented|
 
 
 ## Low Level Requirements 

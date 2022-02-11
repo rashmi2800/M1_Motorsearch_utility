@@ -5,7 +5,7 @@
 void login();
 void mainmenu();
 
-void mainmenu();
+void mainmenu()
 {
 	char apln[30],mt_nm[30];
 	int i,j, keepcount;
