@@ -12,7 +12,7 @@
 
 
 ## Defining the system 
-The "Motor Search" project provides us minimum information we need about the motor. We can createadd new specification of motor and retrieve information about motor that are required. We may also search the motor with the help of its application as well as name, as well as keep a count of the motors.This project helps to create a system that can receive input and generate output automatically in a simple and timely manner. This also helps to store properly the motors in order to maintain their security.
+The "Motor Search" project provides us minimum information we need about the motor. We can create add new specification of motor and retrieve information about motor that are required. We may also search the motor with the help of its application as well as name, as well as keep a count of the motors.This project helps to create a system that can receive input and generate output automatically in a simple and timely manner. This also helps to store properly the motors in order to maintain their security.
 
 
 # SWOT Analysis:
