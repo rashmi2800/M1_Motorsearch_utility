@@ -34,34 +34,25 @@ void mainmenu()
 /**
 * assign i.j value to 0
 * brief structure for motor Record
-*
-*
-*/
-
-while(j!=6)
-/**
+* 
+*switch cases for all the operations
 *
 * @brief function to take input from users
-* 
-*
-*/
 
-switch (j)
-/**
-*
-*
 * @brief cases for all the operations.
 *
 *
+*return;
 */
 
-void login()
+void login();
 /**
 *
 *
 * @ Function to display login screen
  * strcmp fuction to compare the string 
  *
+ * 
  */ 
 
 #endif // HEADER_H 
