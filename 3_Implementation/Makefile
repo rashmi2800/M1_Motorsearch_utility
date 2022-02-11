@@ -4,18 +4,18 @@
 
 
 
-Build : maincode.c functions.c
+Build : maincode.c functions.c unity.c 
 
-    gcc maincode.c functions.c -o maincode.out
+    gcc maincode.c functions.c unity.c -o output.out
 
 
 
 Run : Build
 
-    ./maincode.out
+    ./output.out
 
 
 
 Clean:
 
-    rm -rf *.o *.out *.s *.i *.txt
+    rm -rf *.o *.out *.s *.i 
