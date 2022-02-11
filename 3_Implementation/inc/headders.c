@@ -8,11 +8,14 @@
  * @copyright 
  * 
  */
+#ifndef HEADER_H
 
+#define HEADER_H
 
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+
 
 void login();
 void mainmenu();
@@ -61,4 +64,4 @@ void login()
  *
  */ 
 
-#endif 
+#endif // HEADER_H 
